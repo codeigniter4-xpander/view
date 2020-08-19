@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CI4Xpander\\": "src/"
+            "CI4Xpander_View\\": "src/"
         }
     }
 }
